@@ -1,4 +1,4 @@
-## auteurs:
+### auteurs:
 - Alexandre CHAPLAIS
 - Julian DESCHARREAUX
 - Tilio EBOR
@@ -31,7 +31,7 @@ Les tourelles lancent des projectiles enlevant chacun 1 point de vie.
 Et peuvent être détruites avec l'attaque du player.
 Lorsque le player n'a plus de points de vie il est ramené à l'écran des menus (défaite).
 
-## ASSETS
+### ASSETS
 - TextMesh Pro
 - Bridges Pack from Maxime Brunoni
 - FREE Stylized Bear - RPG Forest Animal
