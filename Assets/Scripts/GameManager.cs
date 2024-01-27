@@ -130,6 +130,8 @@ public class GameManager : MonoBehaviour
 
         // Revenir à l'écran principal
         SceneManager.LoadScene("MainMenu");
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
 
     bool PlayerIsDead()
