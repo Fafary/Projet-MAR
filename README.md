@@ -1,4 +1,4 @@
-## autors:
+## auteurs:
 - Alexandre CHAPLAIS
 - Julian DESCHARREAUX
 - Tilio EBOR
@@ -6,9 +6,6 @@
 # Projet-MAR
 
 Jeu de parcours en 3D sur Unity.
-
-## Scène 3D Low-Poly
-
 
 ## Player
 
@@ -19,24 +16,23 @@ Le player est un ours controllable avec les commandes suivantes :
 - Shift pour sprinter.
 - clique gauche pour attaquer.
 
-La caméra suit le player en vue 3 ème personne. Et le player à 3 points de vie. 
+La caméra suit le player en vue 3 ème personne. Et le player à 10 points de vie. 
 
 ## Boucle de jeu.
 
-Il y a deux parcours : Niveau 1 et Niveau 2. Ainsi qu'un écran de début de jeu pour pouvoir lancer la partie.
+Au lancement on arrive sur le Menu pour lancer une partie.
+La partie se déroule en deux parcours. Le Niveau 1 et le Niveau 2 qui offre différentes fonctionnalités.
+Sauter à travers les obstacles, éviter les projectiles des tourelles et atteindre l'arrivée.
 Le but étant d'aller au bout des 2 Niveaux pour gagner la partie.
 
 ## Tourelles et projectiles
 
-Il y a des tourelles qui lancent des projectiles enlevant chacun 1 point de vie.
-Les tourelles peuvent être détruites avec l'attaque.
+Les tourelles lancent des projectiles enlevant chacun 1 point de vie.
+Et peuvent être détruites avec l'attaque du player.
 Lorsque le player n'a plus de points de vie il est ramené à l'écran des menus (défaite).
 
 ## ASSETS
-### Low-poly assets
-- low poly
-- low poly
-- low poly
-
-### Bear
-bear
+- TextMesh Pro
+- Bridges Pack from Maxime Brunoni
+- FREE Stylized Bear - RPG Forest Animal
+- low poly pack
