@@ -1,0 +1,4 @@
+repository "Projet_MAR@MAR_Jeu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
