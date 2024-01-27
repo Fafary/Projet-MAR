@@ -7,7 +7,6 @@
 
 Jeu de parcours en 3D sur Unity.
 POUR JOUER DEPUIS UNITY, IL FAUT LANCER DEPUIS LA SCENE MAIN MENU
-Il y a une 2eme Branche qui contient le build
 
 ## Player
 
