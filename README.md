@@ -15,6 +15,7 @@ Le player est un ours controllable avec les commandes suivantes :
 - Barre espace pour sauter.
 - Shift pour sprinter.
 - clique gauche pour attaquer.
+- Echap pour revenir au menu.
 
 La caméra suit le player en vue 3 ème personne. Et le player à 10 points de vie. 
 
@@ -30,6 +31,10 @@ Le but étant d'aller au bout des 2 Niveaux pour gagner la partie.
 Les tourelles lancent des projectiles enlevant chacun 1 point de vie.
 Et peuvent être détruites avec l'attaque du player.
 Lorsque le player n'a plus de points de vie il est ramené à l'écran des menus (défaite).
+
+## Problemes / Bugs
+Il arrive lorsque le saut se bloque lorsque nous avancons, il faut rappuyer sur la touche espace afin d'avoir un vrai saut.
+Il peut arriver que vous soyez bloqué dans un élement de decor et que celui ci vous fasses passer sous la map, il faut dans ce cas relancer la partie.
 
 ### ASSETS
 - TextMesh Pro
