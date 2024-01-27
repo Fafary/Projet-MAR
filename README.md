@@ -39,6 +39,8 @@ Vous pouvez récuperer des points de vie (si vous n'etes pas au maximum) en réc
 Soyez attentif ! Certains sont bien cachés =)
 
 ## Problemes / Bugs
+Lorsque vous gagnez une partie, vous devez attendre 10 secondes avant d'avoir l'affichage du message de fin
+
 Il arrive lorsque le saut se bloque lorsque nous avancons, il faut rappuyer sur la touche espace afin d'avoir un vrai saut.
 
 Il peut arriver que vous soyez bloqué dans un élement de decor et que celui ci vous fasses passer sous la map, il faut dans ce cas relancer la partie.
