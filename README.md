@@ -34,6 +34,7 @@ Lorsque le player n'a plus de points de vie il est ramené à l'écran des menus
 
 ## Soin
 Vous pouvez récuperer des points de vie (si vous n'etes pas au maximum) en récupérant les cubes de couleur rouge.
+Soyez attentif ! Certains sont bien cachés =)
 
 ## Problemes / Bugs
 Il arrive lorsque le saut se bloque lorsque nous avancons, il faut rappuyer sur la touche espace afin d'avoir un vrai saut.
