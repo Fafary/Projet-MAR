@@ -6,7 +6,11 @@
 # Projet-MAR
 
 Jeu de parcours en 3D sur Unity.
-POUR JOUER DEPUIS UNITY, IL FAUT LANCER DEPUIS LA SCENE MAIN MENU
+
+# Installation
+Pour jouer depuis unity, il faut lancer depusi la scene main menu.
+
+Si le jeu ne fonctionne, dans le build setting de unity, rajouter les scenes MainMenu, Niveau1, Niveau2 et HUD.
 
 ## Player
 
@@ -39,9 +43,7 @@ Soyez attentif ! Certains sont bien cachés =)
 
 ## Problemes / Bugs
 Lorsque vous gagnez une partie, vous devez attendre 10 secondes avant d'avoir l'affichage du message de fin
-
 Il arrive lorsque le saut se bloque lorsque nous avancons, il faut rappuyer sur la touche espace afin d'avoir un vrai saut.
-
 Il peut arriver que vous soyez bloqué dans un élement de decor et que celui ci vous fasses passer sous la map, il faut dans ce cas relancer la partie.
 
 ### ASSETS
